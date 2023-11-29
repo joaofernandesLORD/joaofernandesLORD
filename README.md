@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá, me chamo João Felipe Fernandes 
+Atualmente estudando:
 
-<!--
-**joaofernandesLORD/joaofernandesLORD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
-Here are some ideas to get you started:
+<div/>
+  
+  ![](https://github-readme-stats.vercel.app/api?username=joaofernandesLORD&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=calm_pink) 
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens Mais usadas:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofernandesLORD&layout=compact)
+
+
+  <img src="https://visitcount.itsvg.in/api?id=LORD&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
